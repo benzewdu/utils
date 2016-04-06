@@ -2,7 +2,7 @@
  * Utility functions to compute Student's Ttest 
  * http://en.wikipedia.org/wiki/Student's_t-test
  * Apache 2.0 Licensed
- * Author: bzewdu
+ * Author: menassezmengesha
  */
  
  
